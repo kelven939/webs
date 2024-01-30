@@ -40,3 +40,29 @@
         float: none;
     }
 }
+
+.divisao-conteudo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.img-e-descricao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.car1 {
+    width: 35px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: rgb(240, 95, 95);
+    text-align: center;
+}
