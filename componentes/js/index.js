@@ -1,4 +1,4 @@
-/*let header = window.document.querySelectorAll(".navBar")[0]
+let header = window.document.querySelectorAll(".navBar")[0]
 window.addEventListener("scroll", ()=>{
 	if(window.pageYOffset>50 && header.classList.contains("navBar")){
 		header.classList.remove("navBar")
@@ -10,7 +10,7 @@ window.addEventListener("scroll", ()=>{
 		header.classList.add("navBar")
 		console.log(`window.pageYOffset`)
 	}
-})*/
+})
 
 function updateYear() {
 	let yearCorrent = document.querySelector(".yearCorrent");
