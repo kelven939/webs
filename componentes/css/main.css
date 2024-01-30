@@ -71,3 +71,7 @@
     text-align: center;
     margin: 0 10px;
 }
+.img-e-descricao img {
+    width: 65px;
+    height: auto;
+}
