@@ -47,22 +47,27 @@
     align-items: center;
     flex-direction: column;
 }
+
 .img-e-descricao {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
 }
+
 .cards {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
+    margin-top: 20px;
 }
-.car1 {
-    width: 35px;
-    height: 35px;
+
+.card {
+    width: 100px;
+    height: 150px;
     border-radius: 15px;
     background-color: rgb(240, 95, 95);
     text-align: center;
+    margin: 0 10px;
 }
