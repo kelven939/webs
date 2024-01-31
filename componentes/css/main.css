@@ -86,8 +86,7 @@
 }
 .img-e-descricao img {
     width: 325px;
-    height: 325px;
-    margin-left: -15px;
+    height: 315px;
 }
 .titulo1::before {
     content: "";
@@ -96,4 +95,22 @@
     display: inline-block;
     background: rgb(240, 95, 95);
     margin: 4px 10px;
+}
+
+.cards-contrato {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 25px;
+}
+.card-contra {
+    width: 230px !important;
+    height: 230px !important;
+    border-radius: 15px !important;
+    background-color: rgb(240, 95, 95) !important;
+    text-align: center !important;
+    margin: 0 10px !important;
+    border-bottom-left-radius: 15px;
+    border-bottom-left-radius: 15px;
 }
