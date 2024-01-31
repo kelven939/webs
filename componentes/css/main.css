@@ -71,7 +71,7 @@
 
 .card {
     width: 100px !important;
-    height: 250px !important;
+    height: 100px !important;
     border-radius: 15px !important;
     background-color: rgb(240, 95, 95) !important;
     text-align: center !important;
@@ -79,5 +79,5 @@
 }
 .img-e-descricao img {
     width: 125px;
-    height: auto;
+    height: 125px;
 }
