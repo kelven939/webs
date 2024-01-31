@@ -91,7 +91,7 @@
 .titulo1::before {
     content: "";
     width: 95px;
-    height: 65px;
+    height: 15px;
     display: inline-block;
     background: rgb(240, 95, 95);
     margin: 4px 10px;
