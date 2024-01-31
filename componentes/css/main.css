@@ -121,7 +121,7 @@
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
-.card-contra-1 {
+/*.card-contra-1 {
     width: 180px;
     height: 40px;
     background-color: rgb(60, 94, 189);
@@ -131,7 +131,7 @@
     border-top-right-radius: 60%;
     text-align: center;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-}
+}*/
 .titulo-contra {
     display: flex;
     justify-content: flex-start;
