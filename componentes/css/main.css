@@ -254,7 +254,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 315px;
+    margin-left: 325px;
+    background-color: white;
   }
 
   .copyright {
