@@ -119,11 +119,11 @@
 }
 .card-contra-1 {
     width: 230px;
-    height: 120px;
+    height: 40px;
     background-color: rgb(60, 94, 189);
     text-align: center;
     margin: 0 10px;
-    border-top-left-radius: 20px;
+    border-top-left-radius: 40%;
     border-bottom-left-radius: 50%;
     border-top-right-radius: 40%;
 }
