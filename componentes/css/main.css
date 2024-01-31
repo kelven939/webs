@@ -115,9 +115,34 @@
     margin: 0 10px !important;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 50%;
-    border-top-right-radius: 20px;
+    border-top-right-radius: 40px;
 }
 .titulo-contra {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+.conte-row {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+}
+.titulo-emprendedor {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+.emprendedor-num {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+.emprendedor-1 {
     display: flex;
     justify-content: flex-start;
     align-items: center;
