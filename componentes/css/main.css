@@ -305,7 +305,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: row;
+    flex-direction: column;
     gap: 5px;
     background-color: #fff;
   }
@@ -315,15 +315,23 @@
   .text-contact {
     text-align: center;
   }
-  .camp1 {
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-direction: column;
-  }
   .input-camp {
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
     flex-direction: row;
+  }
+  .names {
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
+  }
+  .names {
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
   }
