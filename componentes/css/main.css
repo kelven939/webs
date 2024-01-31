@@ -124,6 +124,10 @@
     flex-direction: column;
 }
 
+.seccao-emprendedor {
+    padding: 25px;
+    background-color: rgb(170, 167, 167);
+}
 .conte-row {
     display: flex;
     justify-content: flex-start;
@@ -140,7 +144,7 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
 }
 .emprendedor-1 {
     display: flex;
