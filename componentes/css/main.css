@@ -127,10 +127,11 @@
 .seccao-emprendedor {
     padding: 25px;
     background-color: rgb(170, 167, 167);
+    margin-top: 65px;
 }
 .conte-row {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     flex-direction: row;
     gap: 30px;
