@@ -268,70 +268,33 @@
     color: white;
   }
 
-  .contact-form {
+.input-camp {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    align-items: flex-start;
     flex-direction: row;
-    gap: 5px;
-    margin-top: 20px;
   }
-  .phone-numeber {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    gap: 5px;
-    background-color: #add8e6;
-    padding: 25px;
-    border-radius: 15px;
+  
+  .names,
+  .name {
+    outline: none !important;
+    border: none !important;
+    border-bottom: 1px solid black !important;
+    width: 100%;
+  }
+  
+  .text-area {
+    margin-top: 10px;
+  }
+  
+  .enviar-button {
+    background-color: #ff0000;
     color: #fff;
-  }
-  .phones {
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-direction: column;
-  }
-  .social {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    margin-top: 15px;
-    gap: 5px;
-  }
-  .inputs {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    gap: 5px;
-    background-color: #fff;
-  }
-  .seccao-contacto {
-    margin-top: 20px;
-  }
-  .text-contact {
-    text-align: center;
-  }
-  .input-camp {
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-direction: row;
-  }
-  .names {
-    outline: none !important;
-    border-top: none !important;
-    border-left: none !important;
-    border-right: none !important;
-    border-bottom: 1px solid black !important;
-  }
-  .names {
-    outline: none !important;
-    border-top: none !important;
-    border-left: none !important;
-    border-right: none !important;
-    border-bottom: 1px solid black !important;
-  }
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+  }  
