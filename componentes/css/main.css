@@ -238,3 +238,21 @@
     padding: 20px;
     margin-top: 55px;
   }
+
+  footer {
+    background-color: #add8e6;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+  }
+
+  hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    margin: 10px 0;
+  }
+
+  .copyright {
+    font-size: 12px;
+  }
