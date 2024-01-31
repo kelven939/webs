@@ -78,8 +78,8 @@
     margin: 0 10px !important;
 }
 .img-e-descricao img {
-    width: 125px;
-    height: 125px;
+    width: 325px;
+    height: 325px;
 }
 .titulo1::before {
     content: "";
