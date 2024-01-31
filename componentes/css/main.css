@@ -248,13 +248,13 @@
 
   .hr {
     border: 0;
-    border-top: 1px solid #333;
+    border-top: 1px solid white;
     margin: 10px 0;
     width: 555px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 345px;
+    margin-left: 365px;
     background-color: white;
     color: #fff;
   }
