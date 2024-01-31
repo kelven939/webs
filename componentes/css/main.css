@@ -113,8 +113,9 @@
     background-color: rgb(240, 95, 95) !important;
     text-align: center !important;
     margin: 0 10px !important;
-    border-top-left-radius: 15px;
+    border-top-left-radius: 20px;
     border-bottom-left-radius: 50%;
+    border-top-right-radius: 20px;
 }
 .titulo-contra {
     display: flex;
