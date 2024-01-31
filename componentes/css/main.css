@@ -97,6 +97,9 @@
     margin: 4px 10px;
 }
 
+.contratacao {
+    padding: 15px;
+}
 .cards-contrato {
     display: flex;
     justify-content: flex-start;
@@ -112,5 +115,5 @@
     text-align: center !important;
     margin: 0 10px !important;
     border-top-left-radius: 15px;
-    border-bottom-left-radius: 25px;
+    border-bottom-left-radius: 50%;
 }
