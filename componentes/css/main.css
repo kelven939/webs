@@ -118,14 +118,14 @@
     border-top-right-radius: 40%;
 }
 .card-contra-1 {
-    width: 60px;
+    width: 110px;
     height: 40px;
     background-color: rgb(60, 94, 189);
     text-align: center;
     margin: 0 10px;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 50%;
-    border-top-right-radius: 40%;
+    border-top-right-radius: 50%;
 }
 .titulo-contra {
     display: flex;
