@@ -133,22 +133,26 @@
     justify-content: flex-start;
     align-items: center;
     flex-direction: row;
+    gap: 30px;
 }
 .titulo-emprendedor {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
+    gap: 15px;
 }
 .emprendedor-num {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     flex-direction: row;
+    gap: 25px;
 }
 .emprendedor-1 {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
+    gap: 15px;
 }
