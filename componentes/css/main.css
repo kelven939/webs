@@ -156,3 +156,10 @@
     flex-direction: column;
     gap: 15px;
 }
+.emprendedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+}
