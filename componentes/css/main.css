@@ -87,11 +87,12 @@
 .img-e-descricao img {
     width: 325px;
     height: 325px;
+    margin-left: -15px;
 }
 .titulo1::before {
     content: "";
     width: 95px;
-    height: 15px;
+    height: 5px;
     display: inline-block;
     background: rgb(240, 95, 95);
     margin: 4px 10px;
