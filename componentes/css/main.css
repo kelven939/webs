@@ -179,3 +179,17 @@
     flex-direction: column;
     gap: 15px;
 }
+
+.whatsapp {
+    padding: 10px;
+    background-color: rgb(20, 19, 19);
+    color: white;
+    border-radius: 15px;
+    height: 35px;
+    width: 85px;
+}
+.fa-whatsapp {
+    background-color: rgb(53, 236, 53);
+    color: white;
+    font-size: 22px;
+}
