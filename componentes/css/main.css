@@ -127,8 +127,10 @@
     background-color: rgb(60, 94, 189);
     text-align: center;
     border-top-left-radius: 20px;
-    border-bottom-left-radius: 50%;
-    border-top-right-radius: 40%;
+    border-bottom-left-radius: 70%;
+    border-top-right-radius: 60%;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .titulo-contra {
     display: flex;
