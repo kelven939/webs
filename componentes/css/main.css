@@ -250,7 +250,10 @@
     border: 0;
     border-top: 1px solid #333;
     margin: 10px 0;
-    width: 125px;
+    width: 225px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .copyright {
