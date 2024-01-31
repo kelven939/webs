@@ -102,7 +102,7 @@
 }
 .cards-contrato {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     flex-direction: row;
     gap: 25px;
@@ -116,4 +116,10 @@
     margin: 0 10px !important;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 50%;
+}
+.titulo-contra {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
 }
