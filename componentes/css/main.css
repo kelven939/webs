@@ -44,8 +44,9 @@
 .seccao-de-conteudo-1 {
     margin-top: 20px;
     background-color: rgb(73, 68, 68);
+    padding: 20px;
 }
-.divisao-conteudo {
+.divisao-conteudo, .titulo {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -69,12 +70,12 @@
 }
 
 .card {
-    width: 100px;
-    height: 250px;
-    border-radius: 15px;
-    background-color: rgb(240, 95, 95);
-    text-align: center;
-    margin: 0 10px;
+    width: 100px !important;
+    height: 250px !important;
+    border-radius: 15px !important;
+    background-color: rgb(240, 95, 95) !important;
+    text-align: center !important;
+    margin: 0 10px !important;
 }
 .img-e-descricao img {
     width: 125px;
